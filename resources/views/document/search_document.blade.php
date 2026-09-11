@@ -1,0 +1,1 @@
+@include('document.data', ['mainData' => $mainData])

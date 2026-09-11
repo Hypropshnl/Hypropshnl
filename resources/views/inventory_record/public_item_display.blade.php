@@ -1,0 +1,6 @@
+
+<table class="table table-responsive">
+
+
+
+</table>
